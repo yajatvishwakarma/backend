@@ -1,6 +1,13 @@
 # Backend | Atlas Madness Hackathon 2023 - Judgy | YOUR TRUSTED ALLY FOR HACKATHON JUDGING 
 
 The backend code for the project can be found here [https://github.com/yajatvishwakarma/frontend](https://github.com/yajatvishwakarma/frontend)
+### GCP Products used in this project:
+1. VM instance To host backend of this project (34.88.60.251)
+2. Cloud DNS - To connect domain to VM instance
+3. VertexAI - LLM used throughout the project (view `agents` folder)
+
+### MongoDB Atlas instance has been used as database
+
 
 ## What is Judgy?
 
